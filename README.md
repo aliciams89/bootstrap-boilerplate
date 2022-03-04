@@ -1,2 +1,0 @@
-# bootstrap-boilerplate
-Practice README
